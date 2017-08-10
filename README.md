@@ -1,7 +1,8 @@
 # Machine Learning Engineer Nanodegree
 # Model Evaluation and Validation
 ## Project: Predicting Boston Housing Prices 
-** This project uses the boston data to train a Machine Learning model using supervised learning technique and then predicts the price for a new dataset. **
+
+## This project uses the boston data to train a Machine Learning model using supervised learning technique and then predicts the price for a new dataset.
 
 ### Installation
 
