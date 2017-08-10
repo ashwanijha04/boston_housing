@@ -25,5 +25,5 @@ The modified Boston housing dataset consists of 489 data points, with each datap
 2. `LSTAT`: Percentage of population considered lower status.
 3. `PTRATIO`: Pupil-Teacher ratio by town.
 
-**Target Variable**
+**Target Variable**<br>
 4. `MEDV`: median value of owner-occupied homes.
